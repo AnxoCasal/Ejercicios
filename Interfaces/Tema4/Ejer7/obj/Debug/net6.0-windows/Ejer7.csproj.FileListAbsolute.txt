@@ -1,0 +1,17 @@
+C:\Anxo\Interfaces\Tema4\Ejer7\bin\Debug\net6.0-windows\Ejer7.exe
+C:\Anxo\Interfaces\Tema4\Ejer7\bin\Debug\net6.0-windows\Ejer7.deps.json
+C:\Anxo\Interfaces\Tema4\Ejer7\bin\Debug\net6.0-windows\Ejer7.runtimeconfig.json
+C:\Anxo\Interfaces\Tema4\Ejer7\bin\Debug\net6.0-windows\Ejer7.dll
+C:\Anxo\Interfaces\Tema4\Ejer7\bin\Debug\net6.0-windows\Ejer7.pdb
+C:\Anxo\Interfaces\Tema4\Ejer7\obj\Debug\net6.0-windows\Ejer7.csproj.AssemblyReference.cache
+C:\Anxo\Interfaces\Tema4\Ejer7\obj\Debug\net6.0-windows\Ejer7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Anxo\Interfaces\Tema4\Ejer7\obj\Debug\net6.0-windows\Ejer7.AssemblyInfoInputs.cache
+C:\Anxo\Interfaces\Tema4\Ejer7\obj\Debug\net6.0-windows\Ejer7.AssemblyInfo.cs
+C:\Anxo\Interfaces\Tema4\Ejer7\obj\Debug\net6.0-windows\Ejer7.csproj.CoreCompileInputs.cache
+C:\Anxo\Interfaces\Tema4\Ejer7\obj\Debug\net6.0-windows\Ejer7.dll
+C:\Anxo\Interfaces\Tema4\Ejer7\obj\Debug\net6.0-windows\refint\Ejer7.dll
+C:\Anxo\Interfaces\Tema4\Ejer7\obj\Debug\net6.0-windows\Ejer7.pdb
+C:\Anxo\Interfaces\Tema4\Ejer7\obj\Debug\net6.0-windows\Ejer7.genruntimeconfig.cache
+C:\Anxo\Interfaces\Tema4\Ejer7\obj\Debug\net6.0-windows\ref\Ejer7.dll
+C:\Anxo\Interfaces\Tema4\Ejer7\obj\Debug\net6.0-windows\Ejer7.Form1.resources
+C:\Anxo\Interfaces\Tema4\Ejer7\obj\Debug\net6.0-windows\Ejer7.csproj.GenerateResource.cache

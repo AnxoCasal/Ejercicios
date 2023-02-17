@@ -1,0 +1,15 @@
+C:\Anxo\Servicios\Servidores\TestClient\bin\Debug\net6.0\TestClient.exe
+C:\Anxo\Servicios\Servidores\TestClient\bin\Debug\net6.0\TestClient.deps.json
+C:\Anxo\Servicios\Servidores\TestClient\bin\Debug\net6.0\TestClient.runtimeconfig.json
+C:\Anxo\Servicios\Servidores\TestClient\bin\Debug\net6.0\TestClient.dll
+C:\Anxo\Servicios\Servidores\TestClient\bin\Debug\net6.0\TestClient.pdb
+C:\Anxo\Servicios\Servidores\TestClient\obj\Debug\net6.0\TestClient.csproj.AssemblyReference.cache
+C:\Anxo\Servicios\Servidores\TestClient\obj\Debug\net6.0\TestClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Anxo\Servicios\Servidores\TestClient\obj\Debug\net6.0\TestClient.AssemblyInfoInputs.cache
+C:\Anxo\Servicios\Servidores\TestClient\obj\Debug\net6.0\TestClient.AssemblyInfo.cs
+C:\Anxo\Servicios\Servidores\TestClient\obj\Debug\net6.0\TestClient.csproj.CoreCompileInputs.cache
+C:\Anxo\Servicios\Servidores\TestClient\obj\Debug\net6.0\TestClient.dll
+C:\Anxo\Servicios\Servidores\TestClient\obj\Debug\net6.0\refint\TestClient.dll
+C:\Anxo\Servicios\Servidores\TestClient\obj\Debug\net6.0\TestClient.pdb
+C:\Anxo\Servicios\Servidores\TestClient\obj\Debug\net6.0\TestClient.genruntimeconfig.cache
+C:\Anxo\Servicios\Servidores\TestClient\obj\Debug\net6.0\ref\TestClient.dll

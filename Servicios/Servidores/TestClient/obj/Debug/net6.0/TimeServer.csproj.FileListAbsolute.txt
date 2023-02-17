@@ -1,0 +1,15 @@
+C:\Anxo\Servicios\Servidores\TestClient\bin\Debug\net6.0\TimeServer.exe
+C:\Anxo\Servicios\Servidores\TestClient\bin\Debug\net6.0\TimeServer.deps.json
+C:\Anxo\Servicios\Servidores\TestClient\bin\Debug\net6.0\TimeServer.runtimeconfig.json
+C:\Anxo\Servicios\Servidores\TestClient\bin\Debug\net6.0\TimeServer.dll
+C:\Anxo\Servicios\Servidores\TestClient\bin\Debug\net6.0\TimeServer.pdb
+C:\Anxo\Servicios\Servidores\TestClient\obj\Debug\net6.0\TimeServer.csproj.AssemblyReference.cache
+C:\Anxo\Servicios\Servidores\TestClient\obj\Debug\net6.0\TimeServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Anxo\Servicios\Servidores\TestClient\obj\Debug\net6.0\TimeServer.AssemblyInfoInputs.cache
+C:\Anxo\Servicios\Servidores\TestClient\obj\Debug\net6.0\TimeServer.AssemblyInfo.cs
+C:\Anxo\Servicios\Servidores\TestClient\obj\Debug\net6.0\TimeServer.csproj.CoreCompileInputs.cache
+C:\Anxo\Servicios\Servidores\TestClient\obj\Debug\net6.0\TimeServer.dll
+C:\Anxo\Servicios\Servidores\TestClient\obj\Debug\net6.0\refint\TimeServer.dll
+C:\Anxo\Servicios\Servidores\TestClient\obj\Debug\net6.0\TimeServer.pdb
+C:\Anxo\Servicios\Servidores\TestClient\obj\Debug\net6.0\TimeServer.genruntimeconfig.cache
+C:\Anxo\Servicios\Servidores\TestClient\obj\Debug\net6.0\ref\TimeServer.dll

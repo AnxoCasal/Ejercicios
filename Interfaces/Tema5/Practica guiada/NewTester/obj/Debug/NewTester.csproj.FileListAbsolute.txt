@@ -1,0 +1,14 @@
+C:\Anxo\Interfaces\Tema5\Practica guiada\NewTester\bin\Debug\NewTester.exe.config
+C:\Anxo\Interfaces\Tema5\Practica guiada\NewTester\bin\Debug\NewTester.exe
+C:\Anxo\Interfaces\Tema5\Practica guiada\NewTester\bin\Debug\NewTester.pdb
+C:\Anxo\Interfaces\Tema5\Practica guiada\NewTester\bin\Debug\Practica guiada.dll
+C:\Anxo\Interfaces\Tema5\Practica guiada\NewTester\bin\Debug\Practica guiada.pdb
+C:\Anxo\Interfaces\Tema5\Practica guiada\NewTester\obj\Debug\NewTester.csproj.AssemblyReference.cache
+C:\Anxo\Interfaces\Tema5\Practica guiada\NewTester\obj\Debug\NewTester.csproj.SuggestedBindingRedirects.cache
+C:\Anxo\Interfaces\Tema5\Practica guiada\NewTester\obj\Debug\NewTester.Form1.resources
+C:\Anxo\Interfaces\Tema5\Practica guiada\NewTester\obj\Debug\NewTester.Properties.Resources.resources
+C:\Anxo\Interfaces\Tema5\Practica guiada\NewTester\obj\Debug\NewTester.csproj.GenerateResource.cache
+C:\Anxo\Interfaces\Tema5\Practica guiada\NewTester\obj\Debug\NewTester.csproj.CoreCompileInputs.cache
+C:\Anxo\Interfaces\Tema5\Practica guiada\NewTester\obj\Debug\NewTester.csproj.CopyComplete
+C:\Anxo\Interfaces\Tema5\Practica guiada\NewTester\obj\Debug\NewTester.exe
+C:\Anxo\Interfaces\Tema5\Practica guiada\NewTester\obj\Debug\NewTester.pdb

@@ -1,0 +1,14 @@
+C:\Anxo\Interfaces\Tema5\Ejercicios\Ejer3Form\bin\Debug\Ejer3Form.exe.config
+C:\Anxo\Interfaces\Tema5\Ejercicios\Ejer3Form\bin\Debug\Ejer3Form.exe
+C:\Anxo\Interfaces\Tema5\Ejercicios\Ejer3Form\bin\Debug\Ejer3Form.pdb
+C:\Anxo\Interfaces\Tema5\Ejercicios\Ejer3Form\bin\Debug\Ejercio1.dll
+C:\Anxo\Interfaces\Tema5\Ejercicios\Ejer3Form\bin\Debug\Ejercio1.pdb
+C:\Anxo\Interfaces\Tema5\Ejercicios\Ejer3Form\obj\Debug\Ejer3Form.csproj.AssemblyReference.cache
+C:\Anxo\Interfaces\Tema5\Ejercicios\Ejer3Form\obj\Debug\Ejer3Form.csproj.SuggestedBindingRedirects.cache
+C:\Anxo\Interfaces\Tema5\Ejercicios\Ejer3Form\obj\Debug\Ejer3Form.Form1.resources
+C:\Anxo\Interfaces\Tema5\Ejercicios\Ejer3Form\obj\Debug\Ejer3Form.Properties.Resources.resources
+C:\Anxo\Interfaces\Tema5\Ejercicios\Ejer3Form\obj\Debug\Ejer3Form.csproj.GenerateResource.cache
+C:\Anxo\Interfaces\Tema5\Ejercicios\Ejer3Form\obj\Debug\Ejer3Form.csproj.CoreCompileInputs.cache
+C:\Anxo\Interfaces\Tema5\Ejercicios\Ejer3Form\obj\Debug\Ejer3Form.csproj.CopyComplete
+C:\Anxo\Interfaces\Tema5\Ejercicios\Ejer3Form\obj\Debug\Ejer3Form.exe
+C:\Anxo\Interfaces\Tema5\Ejercicios\Ejer3Form\obj\Debug\Ejer3Form.pdb

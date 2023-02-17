@@ -1,0 +1,17 @@
+C:\Anxo\Servicios\Tema2\Ejer2\bin\Debug\net6.0-windows\Ejer2.exe
+C:\Anxo\Servicios\Tema2\Ejer2\bin\Debug\net6.0-windows\Ejer2.deps.json
+C:\Anxo\Servicios\Tema2\Ejer2\bin\Debug\net6.0-windows\Ejer2.runtimeconfig.json
+C:\Anxo\Servicios\Tema2\Ejer2\bin\Debug\net6.0-windows\Ejer2.dll
+C:\Anxo\Servicios\Tema2\Ejer2\bin\Debug\net6.0-windows\Ejer2.pdb
+C:\Anxo\Servicios\Tema2\Ejer2\obj\Debug\net6.0-windows\Ejer2.csproj.AssemblyReference.cache
+C:\Anxo\Servicios\Tema2\Ejer2\obj\Debug\net6.0-windows\Ejer2.Form1.resources
+C:\Anxo\Servicios\Tema2\Ejer2\obj\Debug\net6.0-windows\Ejer2.csproj.GenerateResource.cache
+C:\Anxo\Servicios\Tema2\Ejer2\obj\Debug\net6.0-windows\Ejer2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Anxo\Servicios\Tema2\Ejer2\obj\Debug\net6.0-windows\Ejer2.AssemblyInfoInputs.cache
+C:\Anxo\Servicios\Tema2\Ejer2\obj\Debug\net6.0-windows\Ejer2.AssemblyInfo.cs
+C:\Anxo\Servicios\Tema2\Ejer2\obj\Debug\net6.0-windows\Ejer2.csproj.CoreCompileInputs.cache
+C:\Anxo\Servicios\Tema2\Ejer2\obj\Debug\net6.0-windows\Ejer2.dll
+C:\Anxo\Servicios\Tema2\Ejer2\obj\Debug\net6.0-windows\refint\Ejer2.dll
+C:\Anxo\Servicios\Tema2\Ejer2\obj\Debug\net6.0-windows\Ejer2.pdb
+C:\Anxo\Servicios\Tema2\Ejer2\obj\Debug\net6.0-windows\Ejer2.genruntimeconfig.cache
+C:\Anxo\Servicios\Tema2\Ejer2\obj\Debug\net6.0-windows\ref\Ejer2.dll

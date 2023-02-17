@@ -1,0 +1,14 @@
+C:\Anxo\Interfaces\Tema5\Ejercicios\Ejer6\obj\Debug\Ejer6.csproj.AssemblyReference.cache
+C:\Anxo\Interfaces\Tema5\Ejercicios\Ejer6\obj\Debug\Ejer6.csproj.SuggestedBindingRedirects.cache
+C:\Anxo\Interfaces\Tema5\Ejercicios\Ejer6\obj\Debug\Ejer6.Form1.resources
+C:\Anxo\Interfaces\Tema5\Ejercicios\Ejer6\obj\Debug\Ejer6.Properties.Resources.resources
+C:\Anxo\Interfaces\Tema5\Ejercicios\Ejer6\obj\Debug\Ejer6.csproj.GenerateResource.cache
+C:\Anxo\Interfaces\Tema5\Ejercicios\Ejer6\obj\Debug\Ejer6.csproj.CoreCompileInputs.cache
+C:\Anxo\Interfaces\Tema5\Ejercicios\Ejer6\bin\Debug\Ejer6.exe.config
+C:\Anxo\Interfaces\Tema5\Ejercicios\Ejer6\bin\Debug\Ejer6.exe
+C:\Anxo\Interfaces\Tema5\Ejercicios\Ejer6\bin\Debug\Ejer6.pdb
+C:\Anxo\Interfaces\Tema5\Ejercicios\Ejer6\bin\Debug\Ejercio1.dll
+C:\Anxo\Interfaces\Tema5\Ejercicios\Ejer6\bin\Debug\Ejercio1.pdb
+C:\Anxo\Interfaces\Tema5\Ejercicios\Ejer6\obj\Debug\Ejer6.csproj.CopyComplete
+C:\Anxo\Interfaces\Tema5\Ejercicios\Ejer6\obj\Debug\Ejer6.exe
+C:\Anxo\Interfaces\Tema5\Ejercicios\Ejer6\obj\Debug\Ejer6.pdb

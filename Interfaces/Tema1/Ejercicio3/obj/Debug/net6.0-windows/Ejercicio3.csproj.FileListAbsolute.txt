@@ -1,0 +1,17 @@
+C:\Anxo\Interfaces\Ejercicio3\bin\Debug\net6.0-windows\Ejercicio3.exe
+C:\Anxo\Interfaces\Ejercicio3\bin\Debug\net6.0-windows\Ejercicio3.deps.json
+C:\Anxo\Interfaces\Ejercicio3\bin\Debug\net6.0-windows\Ejercicio3.runtimeconfig.json
+C:\Anxo\Interfaces\Ejercicio3\bin\Debug\net6.0-windows\Ejercicio3.dll
+C:\Anxo\Interfaces\Ejercicio3\bin\Debug\net6.0-windows\Ejercicio3.pdb
+C:\Anxo\Interfaces\Ejercicio3\obj\Debug\net6.0-windows\Ejercicio3.csproj.AssemblyReference.cache
+C:\Anxo\Interfaces\Ejercicio3\obj\Debug\net6.0-windows\Ejercicio3.Form1.resources
+C:\Anxo\Interfaces\Ejercicio3\obj\Debug\net6.0-windows\Ejercicio3.csproj.GenerateResource.cache
+C:\Anxo\Interfaces\Ejercicio3\obj\Debug\net6.0-windows\Ejercicio3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Anxo\Interfaces\Ejercicio3\obj\Debug\net6.0-windows\Ejercicio3.AssemblyInfoInputs.cache
+C:\Anxo\Interfaces\Ejercicio3\obj\Debug\net6.0-windows\Ejercicio3.AssemblyInfo.cs
+C:\Anxo\Interfaces\Ejercicio3\obj\Debug\net6.0-windows\Ejercicio3.csproj.CoreCompileInputs.cache
+C:\Anxo\Interfaces\Ejercicio3\obj\Debug\net6.0-windows\Ejercicio3.dll
+C:\Anxo\Interfaces\Ejercicio3\obj\Debug\net6.0-windows\refint\Ejercicio3.dll
+C:\Anxo\Interfaces\Ejercicio3\obj\Debug\net6.0-windows\Ejercicio3.pdb
+C:\Anxo\Interfaces\Ejercicio3\obj\Debug\net6.0-windows\Ejercicio3.genruntimeconfig.cache
+C:\Anxo\Interfaces\Ejercicio3\obj\Debug\net6.0-windows\ref\Ejercicio3.dll

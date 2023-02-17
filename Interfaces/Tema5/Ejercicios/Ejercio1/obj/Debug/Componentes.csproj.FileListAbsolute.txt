@@ -1,0 +1,11 @@
+C:\Anxo\Interfaces\Tema5\Ejercicios\Ejercio1\bin\Debug\Ejercio1.dll
+C:\Anxo\Interfaces\Tema5\Ejercicios\Ejercio1\bin\Debug\Ejercio1.pdb
+C:\Anxo\Interfaces\Tema5\Ejercicios\Ejercio1\obj\Debug\Componentes.csproj.AssemblyReference.cache
+C:\Anxo\Interfaces\Tema5\Ejercicios\Ejercio1\obj\Debug\Ejercio1.LblText.resources
+C:\Anxo\Interfaces\Tema5\Ejercicios\Ejercio1\obj\Debug\Ejercio1.Properties.Resources.resources
+C:\Anxo\Interfaces\Tema5\Ejercicios\Ejercio1\obj\Debug\Ejercio1.Spotify.resources
+C:\Anxo\Interfaces\Tema5\Ejercicios\Ejercio1\obj\Debug\Componentes.csproj.GenerateResource.cache
+C:\Anxo\Interfaces\Tema5\Ejercicios\Ejercio1\obj\Debug\Componentes.csproj.CoreCompileInputs.cache
+C:\Anxo\Interfaces\Tema5\Ejercicios\Ejercio1\obj\Debug\Ejercio1.dll
+C:\Anxo\Interfaces\Tema5\Ejercicios\Ejercio1\obj\Debug\Ejercio1.pdb
+C:\Anxo\Interfaces\Tema5\Ejercicios\Ejercio1\obj\Debug\Ejercio1.ValidateTextBox.resources

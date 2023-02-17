@@ -1,0 +1,17 @@
+C:\Anxo\Interfaces\Tema4\Ejer9\bin\Debug\net6.0-windows\Ejer9.exe
+C:\Anxo\Interfaces\Tema4\Ejer9\bin\Debug\net6.0-windows\Ejer9.deps.json
+C:\Anxo\Interfaces\Tema4\Ejer9\bin\Debug\net6.0-windows\Ejer9.runtimeconfig.json
+C:\Anxo\Interfaces\Tema4\Ejer9\bin\Debug\net6.0-windows\Ejer9.dll
+C:\Anxo\Interfaces\Tema4\Ejer9\bin\Debug\net6.0-windows\Ejer9.pdb
+C:\Anxo\Interfaces\Tema4\Ejer9\obj\Debug\net6.0-windows\Ejer9.csproj.AssemblyReference.cache
+C:\Anxo\Interfaces\Tema4\Ejer9\obj\Debug\net6.0-windows\Ejer9.Form1.resources
+C:\Anxo\Interfaces\Tema4\Ejer9\obj\Debug\net6.0-windows\Ejer9.csproj.GenerateResource.cache
+C:\Anxo\Interfaces\Tema4\Ejer9\obj\Debug\net6.0-windows\Ejer9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Anxo\Interfaces\Tema4\Ejer9\obj\Debug\net6.0-windows\Ejer9.AssemblyInfoInputs.cache
+C:\Anxo\Interfaces\Tema4\Ejer9\obj\Debug\net6.0-windows\Ejer9.AssemblyInfo.cs
+C:\Anxo\Interfaces\Tema4\Ejer9\obj\Debug\net6.0-windows\Ejer9.csproj.CoreCompileInputs.cache
+C:\Anxo\Interfaces\Tema4\Ejer9\obj\Debug\net6.0-windows\Ejer9.dll
+C:\Anxo\Interfaces\Tema4\Ejer9\obj\Debug\net6.0-windows\refint\Ejer9.dll
+C:\Anxo\Interfaces\Tema4\Ejer9\obj\Debug\net6.0-windows\Ejer9.pdb
+C:\Anxo\Interfaces\Tema4\Ejer9\obj\Debug\net6.0-windows\Ejer9.genruntimeconfig.cache
+C:\Anxo\Interfaces\Tema4\Ejer9\obj\Debug\net6.0-windows\ref\Ejer9.dll

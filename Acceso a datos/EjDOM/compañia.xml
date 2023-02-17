@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><compañia>
+    <empleado>
+        <nombre>Juan</nombre>
+        <apellido>López Perez</apellido>
+        <apodo>Juanin</apodo>
+        <salario>1000</salario>
+    </empleado>
+</compañia>

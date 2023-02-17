@@ -1,0 +1,15 @@
+C:\Anxo\Interfaces\Tema3\Ejer2\bin\Debug\net6.0\Ejer2.exe
+C:\Anxo\Interfaces\Tema3\Ejer2\bin\Debug\net6.0\Ejer2.deps.json
+C:\Anxo\Interfaces\Tema3\Ejer2\bin\Debug\net6.0\Ejer2.runtimeconfig.json
+C:\Anxo\Interfaces\Tema3\Ejer2\bin\Debug\net6.0\Ejer2.dll
+C:\Anxo\Interfaces\Tema3\Ejer2\bin\Debug\net6.0\Ejer2.pdb
+C:\Anxo\Interfaces\Tema3\Ejer2\obj\Debug\net6.0\Ejer2.csproj.AssemblyReference.cache
+C:\Anxo\Interfaces\Tema3\Ejer2\obj\Debug\net6.0\Ejer2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Anxo\Interfaces\Tema3\Ejer2\obj\Debug\net6.0\Ejer2.AssemblyInfoInputs.cache
+C:\Anxo\Interfaces\Tema3\Ejer2\obj\Debug\net6.0\Ejer2.AssemblyInfo.cs
+C:\Anxo\Interfaces\Tema3\Ejer2\obj\Debug\net6.0\Ejer2.csproj.CoreCompileInputs.cache
+C:\Anxo\Interfaces\Tema3\Ejer2\obj\Debug\net6.0\Ejer2.dll
+C:\Anxo\Interfaces\Tema3\Ejer2\obj\Debug\net6.0\refint\Ejer2.dll
+C:\Anxo\Interfaces\Tema3\Ejer2\obj\Debug\net6.0\Ejer2.pdb
+C:\Anxo\Interfaces\Tema3\Ejer2\obj\Debug\net6.0\Ejer2.genruntimeconfig.cache
+C:\Anxo\Interfaces\Tema3\Ejer2\obj\Debug\net6.0\ref\Ejer2.dll

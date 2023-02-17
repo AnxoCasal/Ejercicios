@@ -1,0 +1,15 @@
+C:\Anxo\Interfaces\Pruebas\bin\Debug\net6.0\Pruebas.exe
+C:\Anxo\Interfaces\Pruebas\bin\Debug\net6.0\Pruebas.deps.json
+C:\Anxo\Interfaces\Pruebas\bin\Debug\net6.0\Pruebas.runtimeconfig.json
+C:\Anxo\Interfaces\Pruebas\bin\Debug\net6.0\Pruebas.dll
+C:\Anxo\Interfaces\Pruebas\bin\Debug\net6.0\Pruebas.pdb
+C:\Anxo\Interfaces\Pruebas\obj\Debug\net6.0\Pruebas.csproj.AssemblyReference.cache
+C:\Anxo\Interfaces\Pruebas\obj\Debug\net6.0\Pruebas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Anxo\Interfaces\Pruebas\obj\Debug\net6.0\Pruebas.AssemblyInfoInputs.cache
+C:\Anxo\Interfaces\Pruebas\obj\Debug\net6.0\Pruebas.AssemblyInfo.cs
+C:\Anxo\Interfaces\Pruebas\obj\Debug\net6.0\Pruebas.csproj.CoreCompileInputs.cache
+C:\Anxo\Interfaces\Pruebas\obj\Debug\net6.0\Pruebas.dll
+C:\Anxo\Interfaces\Pruebas\obj\Debug\net6.0\refint\Pruebas.dll
+C:\Anxo\Interfaces\Pruebas\obj\Debug\net6.0\Pruebas.pdb
+C:\Anxo\Interfaces\Pruebas\obj\Debug\net6.0\Pruebas.genruntimeconfig.cache
+C:\Anxo\Interfaces\Pruebas\obj\Debug\net6.0\ref\Pruebas.dll

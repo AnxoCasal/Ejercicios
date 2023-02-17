@@ -1,0 +1,6 @@
+C:\Anxo\Interfaces\Tema5\Practica guiada\Practica guiada\obj\Debug\Practica guiada.csproj.AssemblyReference.cache
+C:\Anxo\Interfaces\Tema5\Practica guiada\Practica guiada\obj\Debug\Practica guiada.csproj.CoreCompileInputs.cache
+C:\Anxo\Interfaces\Tema5\Practica guiada\Practica guiada\bin\Debug\Practica guiada.dll
+C:\Anxo\Interfaces\Tema5\Practica guiada\Practica guiada\bin\Debug\Practica guiada.pdb
+C:\Anxo\Interfaces\Tema5\Practica guiada\Practica guiada\obj\Debug\Practica guiada.dll
+C:\Anxo\Interfaces\Tema5\Practica guiada\Practica guiada\obj\Debug\Practica guiada.pdb

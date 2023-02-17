@@ -1,0 +1,11 @@
+C:\Anxo\Servicios\Servidores\Wasup\bin\Debug\Wasup.exe.config
+C:\Anxo\Servicios\Servidores\Wasup\bin\Debug\Wasup.exe
+C:\Anxo\Servicios\Servidores\Wasup\bin\Debug\Wasup.pdb
+C:\Anxo\Servicios\Servidores\Wasup\obj\Debug\Wasup.csproj.AssemblyReference.cache
+C:\Anxo\Servicios\Servidores\Wasup\obj\Debug\Wasup.csproj.SuggestedBindingRedirects.cache
+C:\Anxo\Servicios\Servidores\Wasup\obj\Debug\Wasup.Form1.resources
+C:\Anxo\Servicios\Servidores\Wasup\obj\Debug\Wasup.Properties.Resources.resources
+C:\Anxo\Servicios\Servidores\Wasup\obj\Debug\Wasup.csproj.GenerateResource.cache
+C:\Anxo\Servicios\Servidores\Wasup\obj\Debug\Wasup.csproj.CoreCompileInputs.cache
+C:\Anxo\Servicios\Servidores\Wasup\obj\Debug\Wasup.exe
+C:\Anxo\Servicios\Servidores\Wasup\obj\Debug\Wasup.pdb
