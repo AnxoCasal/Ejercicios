@@ -1,6 +1,6 @@
-﻿namespace TimeService
+﻿namespace ServidorTiempo
 {
-    partial class Service1
+    partial class ServidorTiempo
     {
         /// <summary> 
         /// Variable del diseñador necesaria.
@@ -28,8 +28,11 @@
         /// </summary>
         private void InitializeComponent()
         {
-            components = new System.ComponentModel.Container();
-            this.ServiceName = "Service1";
+            // 
+            // ServidorTiempo
+            // 
+            this.ServiceName = "ServidorTiempo";
+
         }
 
         #endregion

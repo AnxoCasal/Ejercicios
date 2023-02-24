@@ -29,6 +29,7 @@ namespace ShiftServer
         static IPEndPoint ipend;
         static int port = 31416;
         static Socket s;
+        static readonly object k = new object();
 
         public ShiftServer() { }
 
@@ -58,7 +59,7 @@ namespace ShiftServer
                 }
             }
 
-            Console.WriteLine("Server working on ip: "+ipend.Address+" & port: "+ipend.Port);
+            Console.WriteLine("Server working on ip: " + ipend.Address + " & port: " + ipend.Port);
 
             ReadNames(usersPath);
             ReadWaitQueu(waitQueuePath);
@@ -100,7 +101,7 @@ namespace ShiftServer
                     using (BinaryReader br = new BinaryReader(stream))
                     {
                         int pin = br.ReadInt16();
-                        if (pin < 10000 && pin >= 0)
+                        if (pin < 10000 && pin >= 999)
                         {
                             return pin;
                         }
@@ -123,7 +124,14 @@ namespace ShiftServer
             {
                 using (BinaryWriter bw = new BinaryWriter(stream))
                 {
-                    bw.Write(pin);
+                    if (pin < 10000 && pin >= 999)
+                    {
+                        bw.Write(pin);
+                    }
+                    else
+                    {
+                        bw.Write(9999);
+                    }
                 }
             }
         }
@@ -184,14 +192,30 @@ namespace ShiftServer
                             while (true)
                             {
                                 string msg = sr.ReadLine();
-                                if (msg.StartsWith("del "))
+                                if (msg == "list")
+                                {
+                                    sw.WriteLine("LISTA DE USUARIOS:");
+                                    lock (k)
+                                    {
+                                        foreach (string entrada in waitQueue)
+                                        {
+                                            sw.WriteLine(entrada);
+                                        }
+                                    }
+                                    sw.Flush();
+                                }
+                                else if (msg.StartsWith("del "))
                                 {
                                     int pos;
                                     msg = msg.Substring(4);
                                     if (int.TryParse(msg, out pos) && pos <= waitQueue.Count && pos > 0)
                                     {
-                                        waitQueue.RemoveAt(pos - 1);
-                                        saveQueue(waitQueuePath);
+                                        lock (k)
+                                        {
+                                            waitQueue.RemoveAt(pos - 1);
+                                            saveQueue(waitQueuePath);
+                                        }
+
                                     }
                                 }
                                 else if (msg.StartsWith("chpin "))
@@ -233,16 +257,22 @@ namespace ShiftServer
                                 if (msg == "list")
                                 {
                                     sw.WriteLine("LISTA DE USUARIOS:");
-                                    foreach (string entrada in waitQueue)
+                                    lock (k)
                                     {
-                                        sw.WriteLine(entrada);
+                                        foreach (string entrada in waitQueue)
+                                        {
+                                            sw.WriteLine(entrada);
+                                        }
                                     }
                                     sw.Flush();
                                 }
                                 else if (msg == "add")
                                 {
-                                    waitQueue.Add(userName + " " + DateTime.Now.ToString());
-                                    saveQueue(waitQueuePath);
+                                    lock (k)
+                                    {
+                                        waitQueue.Add(userName + " " + DateTime.Now.ToString());
+                                        saveQueue(waitQueuePath);
+                                    }
                                     sw.WriteLine("OK");
                                     sw.Flush();
                                 }

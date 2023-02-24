@@ -5,7 +5,7 @@ using System.ServiceProcess;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace TimeService
+namespace ServidorTiempo
 {
     internal static class Program
     {
@@ -17,7 +17,7 @@ namespace TimeService
             ServiceBase[] ServicesToRun;
             ServicesToRun = new ServiceBase[]
             {
-                new Service1()
+                new ServidorTiempo()
             };
             ServiceBase.Run(ServicesToRun);
         }

@@ -1,0 +1,11 @@
+C:\Users\AnxoC\Ejercicios\Servicios\Servicios\ServidorTiempo\bin\Debug\ServidorTiempo.exe.config
+C:\Users\AnxoC\Ejercicios\Servicios\Servicios\ServidorTiempo\bin\Debug\ServidorTiempo.exe
+C:\Users\AnxoC\Ejercicios\Servicios\Servicios\ServidorTiempo\bin\Debug\ServidorTiempo.pdb
+C:\Users\AnxoC\Ejercicios\Servicios\Servicios\ServidorTiempo\obj\Debug\ServidorTiempo.csproj.AssemblyReference.cache
+C:\Users\AnxoC\Ejercicios\Servicios\Servicios\ServidorTiempo\obj\Debug\ServidorTiempo.csproj.SuggestedBindingRedirects.cache
+C:\Users\AnxoC\Ejercicios\Servicios\Servicios\ServidorTiempo\obj\Debug\ServidorTiempo.ProjectInstaller.resources
+C:\Users\AnxoC\Ejercicios\Servicios\Servicios\ServidorTiempo\obj\Debug\ServidorTiempo.csproj.GenerateResource.cache
+C:\Users\AnxoC\Ejercicios\Servicios\Servicios\ServidorTiempo\obj\Debug\ServidorTiempo.csproj.CoreCompileInputs.cache
+C:\Users\AnxoC\Ejercicios\Servicios\Servicios\ServidorTiempo\obj\Debug\ServidorTiempo.exe
+C:\Users\AnxoC\Ejercicios\Servicios\Servicios\ServidorTiempo\obj\Debug\ServidorTiempo.pdb
+C:\Users\AnxoC\Ejercicios\Servicios\Servicios\ServidorTiempo\obj\Debug\ServidorTiempo.ServidorTiempo.resources
