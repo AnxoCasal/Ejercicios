@@ -1,0 +1,11 @@
+package pruebas;
+
+import java.util.ArrayList;
+
+public class Personas {
+	static ArrayList personas = new ArrayList();
+	
+	public void guardar(){
+		
+	}
+}

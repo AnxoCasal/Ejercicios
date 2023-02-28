@@ -1,0 +1,42 @@
+package pruebas;
+
+import java.util.ArrayList;
+
+import javax.ws.rs.Consumes;
+import javax.ws.rs.GET;
+import javax.ws.rs.POST;
+import javax.ws.rs.Path;
+import javax.ws.rs.PathParam;
+import javax.ws.rs.Produces;
+import javax.ws.rs.core.MediaType;
+import javax.ws.rs.core.Response;
+
+@Path("/lista_personas")
+public class Personas {
+	static ArrayList<Persona> personas = new ArrayList();
+
+	@POST
+	@Consumes({MediaType.APPLICATION_XML, MediaType.APPLICATION_JSON})
+	public void guardar(Persona persona){
+		personas.add(persona);
+	}
+	
+	@GET
+	@Produces({MediaType.APPLICATION_XML})
+	public Response listar(){
+		return Response.ok(personas).build();
+	}
+
+	@GET
+	@Path("/{name}")
+	@Produces({ MediaType.APPLICATION_JSON })
+	public Response ver(@PathParam("name") String nombre) {
+		System.out.println(nombre);
+		for (Persona persona : personas) {
+			if(persona.nombre.equals(nombre)) {
+				return Response.ok(persona).build();
+			}
+		}
+		return null;
+	}
+}

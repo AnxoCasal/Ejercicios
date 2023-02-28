@@ -1,0 +1,15 @@
+package pruebas;
+
+import java.util.ArrayList;
+
+import javax.ws.rs.Consumes;
+import javax.ws.rs.core.MediaType;
+
+public class Personas {
+	static ArrayList personas = new ArrayList();
+
+	@Consumes({MediaType.APPLICATION_XML, MediaType.APPLICATION_JSON})
+	public void guardar(Persona persona){
+		
+	}
+}
